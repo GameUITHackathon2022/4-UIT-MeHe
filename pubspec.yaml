@@ -1,0 +1,70 @@
+name: hackathon2022
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  iconsax: ^0.0.8
+  flutter_svg: ^1.1.5
+  firebase_auth: ^4.1.4
+  blur: ^3.1.0
+  cloud_firestore: ^4.1.0
+  flutter_facebook_auth: ^5.0.6
+  google_sign_in: ^5.4.2
+  custom_check_box: ^0.0.4
+  cloud_functions: ^4.0.5
+  firebase_core: ^2.3.0
+  firebase_database: ^10.0.6
+  firebase_remote_config: ^3.0.6
+  speech_to_text: ^6.1.0
+  audioplayers: ^0.20.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+  flutter_svg: ^1.1.5
+  
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/png/
+    - assets/images/svg/
+    - assets/images/authentication/
+    - assets/images/background/
+    - assets/images/logo/
+    - assets/images/onboarding/
+    - assets/images/profile/
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/poppins/SVN-Poppins-Light.ttf
+          style: normal
+          weight: 100
+        - asset: assets/fonts/poppins/SVN-Poppins-Regular.ttf
+          style: normal
+          weight: 400
+        - asset: assets/fonts/poppins/SVN-Poppins-Medium.ttf
+          style: normal
+          weight: 500
+        - asset: assets/fonts/poppins/SVN-Poppins-SemiBold.ttf
+          style: normal
+          weight: 600
+        - asset: assets/fonts/poppins/SVN-Poppins-Bold.ttf
+          style: normal
+          weight: 700
+        - asset: assets/fonts/poppins/SVN-Poppins-Black.ttf
+          style: normal
+          weight: 800
+        
+ 
+
+ 
