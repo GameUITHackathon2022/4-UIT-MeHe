@@ -1,6 +1,11 @@
 ### Giới thiệu sơ lược về ứng dụng
 ![](https://i.ibb.co/bLBpCfr/thumbnail.png)
 Ứng dụng có tên là **Ecolour**, lấy cảm hứng từ sự kết hợp giữa **"eco"** và **"colour"**, với mong muốn chủ đạo là màu xanh lá sẽ giúp cuộc sống của chúng ta thêm xanh hơn, gần gũi với thiên nhiên hơn với việc cung cấp nhiều bài báo, thông tin, tin tức về bảo vệ môi trường, đồng thời tổng hợp nhiều chiến dịch bảo vệ môi trường cho người sử dụng từ nhiều nguồn khác nhau. Ngoài ra ứng dụng còn có chức năng cung cấp thử thách cho người sử dụng và tặng quà tương ứng. Đặc biệt có sự tích hợp với công cụ trợ lý ảo bằng giọng nói đơn giản.
+### Công nghệ sử dụng
+- Phát triển với Flutter và Google Firebase.
+- Thiết kế UI/UX bằng Figma.
+- IDE: Visual Studio Code.
+- Nhiều thư viện nhỏ hỗ trợ các chức năng phức tạp.
 ### Tính năng chính 
 - Màn hình cung cấp thông tin các tin tức về môi trường (chưa hoàn thành trong ứng dụng, hoàn thành thiết kế).
 - Màn hình cung cấp, cập nhật thông tin các chiến dịch môi trường (chưa hoàn thành trong ứng dụng, hoàn thành thiết kế).
