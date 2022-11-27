@@ -12,6 +12,7 @@
 - Màn hình cung cấp các thử thách cho người dùng (chưa hoàn thành trong ứng dụng, hoàn thành thiết kế).
 - Trợ lý ảo: Vì lý do phức tạp khi phải xử lý máy học nên nhóm đã áp dụng thư viện có sẵn trong Flutter là speech_to_text và tự thu âm phản hồi để xử lý một số yêu cầu đơn giản.
 - Nhìn chung do thời gian có hạn nên không thể triển khai tải được dữ liệu từ database về, nhóm sử dụng Google Firebase. Do vậy ứng dụng chỉ có thể dừng được nhiều về mặt thiết kế và ý tưởng.
+![](https://i.ibb.co/NS9znry/category-secondary.png)
 ### Thông tin thêm
 - **Link Figma một số màn hình chính mà nhóm đã thiết kế:** https://www.figma.com/file/75OyzxHXUV36JA3EOEYMf4/Ecolour-Project?node-id=0%3A1&t=FTgVH75Z8DPdPfP8-1.
 - **Link video YouTube demo tính năng tương tác cơ bản với trợ lý ảo:** https://www.youtube.com/watchv=IhWXzeZe6uY&ab_channel=TriMinhNguyen. 
