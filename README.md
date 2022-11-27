@@ -19,7 +19,7 @@
 
 ### Thông tin thêm
 - **Link Figma một số màn hình chính mà nhóm đã thiết kế:** https://www.figma.com/file/75OyzxHXUV36JA3EOEYMf4/Ecolour-Project?node-id=0%3A1&t=FTgVH75Z8DPdPfP8-1.
-- **Link video YouTube demo tính năng tương tác cơ bản với trợ lý ảo:** https://www.youtube.com/watchv=IhWXzeZe6uY&ab_channel=TriMinhNguyen. 
+- **Link video YouTube demo tính năng tương tác cơ bản với trợ lý ảo:** https://youtu.be/IhWXzeZe6uY. 
 ### Lời cảm ơn
 Cuối cùng, em xin thay mặt nhóm cảm ơn Quý Thầy, Quý Cô cùng toàn thể ban tổ chức của cuộc thi đã hỗ trợ các đội thi hết mình để có một cuộc thi Game UIT Hackathon 2022 thành công tốt đẹp.
 `UIT MeHe, 2022`
