@@ -12,6 +12,7 @@ class ImageAssets {
   static const String homebg_png = '$_pathPrefix/main_home.png';
   static const String filter_png = '$_pathPrefix/filter.png';
   static const String post_png = '$_pathPrefix/im_post.png';
+
   static const String backgroundOnboarding =
       '$_pathPrefix/backgroundOnboarding.png';
   static const String salySayhi = '$_pathPrefixAuth/salySayhi.png';
@@ -28,4 +29,7 @@ class VectorImageAssets {
   // START FROM HERE
   static const String example_svg = '$_pathPrefix/example_svg.svg';
   static const String filter_svg = '$_pathPrefix/filtter.svg';
+  static const String coppon_png = '$_pathPrefix/coppon.svg';
+  static const String free_tiket_png = '$_pathPrefix/free_titket.svg';
+  static const String point_png = '$_pathPrefix/point.svg';
 }

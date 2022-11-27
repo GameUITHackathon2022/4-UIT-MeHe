@@ -11,6 +11,7 @@ import 'package:iconsax/iconsax.dart';
 
 import '../../../constants/colors.dart';
 import '../../../constants/images.dart';
+import '../../main_home/main_home_page.dart';
 
 class signinScreen extends StatefulWidget {
   _SignInPageState createState() => _SignInPageState();
@@ -219,9 +220,15 @@ class _SignInPageState extends State<signinScreen> {
                               padding: EdgeInsets.only(top: 16),
                               alignment: Alignment.center,
                               child: GestureDetector(
-                                onTap: () => loginUser(emailController.text,
-                                    passwordController.text, context),
-                                // onTap: () => login(),
+                                // onTap: () => loginUser(emailController.text,
+                                //     passwordController.text, context),
+                                onTap: () {
+                                  Navigator.push(
+                                      context,
+                                      MaterialPageRoute(
+                                          builder: (context) =>
+                                              MainHomePage()));
+                                },
                                 child: AnimatedContainer(
                                   alignment: Alignment.center,
                                   duration: Duration(milliseconds: 300),
